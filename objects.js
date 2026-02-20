@@ -101,3 +101,11 @@ let user_data_assign1 = Object.assign({phone_number : 7878747574},demo); // - ad
 // object.assign VS spred
 // object.assign() -- method -- ESS old version, less used
 // spred -- oprator -- state updated, most used in react application, clean mode,
+
+
+// hasti hasti hasti
+// hasti hasti hasti
+// hasti hasti hasti
+// hasti hasti hasti
+// hasti hasti hasti
+// hasti hasti hasti
